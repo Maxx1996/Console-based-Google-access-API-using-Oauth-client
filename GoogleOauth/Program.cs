@@ -15,7 +15,7 @@ namespace GoogleOauth
 
         public static string ApplicationName = "Google access API using Oauth client";
         public static string ClientId = "847163047043-5ariph6u9cdhhpfeshhiiclassfjfe0l.apps.googleusercontent.com";
-        public static string ClientSecret = "2ONYgE3bFyFgPHtyj1cxrE5t";
+        public static string ClientSecret = "Enter Secret Key";
 
         public static string[] Scopes =
         {
